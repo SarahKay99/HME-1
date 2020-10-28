@@ -3,7 +3,7 @@ Hierarchical Mathematical Equations 1
 
 *A sample of the database, HME-1, for Optical Character Recognition of Maths Equations (Math OCR).* 
 
---
+---
 
 Using this dataset, data scientists can build models which identify maths equations and their components, as shown:
 
