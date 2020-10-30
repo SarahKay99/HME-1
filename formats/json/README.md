@@ -6,8 +6,7 @@ The most detailed format of HME-1. Contains **all metadata**, unlike other forma
 # When to use the HME-1 JSON format
 
 - To train a custom network.
-- To wrangle the data into different categories. (i.e. you want to train seperate models for handwritten, non-handwritten and mixed data)
-- 
+- To wrangle data into different categories. (i.e. you want to train seperate Darknet models for handwritten and non-handwritten data)
 
 Metadata format, per image: 
 
