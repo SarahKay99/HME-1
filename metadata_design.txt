@@ -1,0 +1,51 @@
+// PHOTO ITEM METADATA ==> ENTIRE LEYLINE / ROCKPOOL / MANTIS SITE 
+{
+	item_id: 823895623985
+	name: "A filename"			// string
+	datatype: "jpg",			// example of a datatype
+	datasets: ["HME-1"],			// list of datasets it belongs to.
+	private: false,				// boolean. do we need a C2D environment or not?
+	sourcing: {
+		added_by: "SarahKay99",		// the person liable if a copyright violation has occurred.
+		lisenced: true,
+		copyright: {
+			source: "Specialist Mathematics Units 1 & 2",
+			source_type: "book",
+			authors: ["Michael Evans", "Douglas Wallace", "Kay Lipson", "David Treeby"],
+			links: [""]
+		}		// if lisenced: false, then copyright: {} (blank object)
+	}
+}
+
+// HME-1 METADATA FORMAT: This metadata file specifies the standards for the HME-1 Dataset. Items that go into the HME-1 Dataset must adhere to these standards.
+// Write a script to verify items.
+{	
+	datatypes: ["png", "jpg"],			// filetypes
+	annotations: [annotationID1, annotationID2],	// 
+	c2d: false,					// boolean
+	annotation_format: {
+				// string
+		handwritten: "bool",			// boolean
+		classifications: [],			//			
+	}
+}
+
+// LOGIC
+<script> 
+if ((object.sourcing.copyright) & (!metadata.sourcing.source)) {
+	console.log("COPYRIGHT ERROR 404: Requirements not met. Object cannot be added to the dataset.);
+}
+</script>
+
+// THE FINISHED PRODUCT: EXAMPLE
+// Write a script to create this string, then parseJSON:
+{
+	universal: "",		// Do we link to the file containing its universal data, or do we 
+	${dataset1}: {
+		local_filename: "string",
+	},
+	${dataset2}: {},
+	${dataset3}: {},
+	...
+	${datasetN}: {},
+}
