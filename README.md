@@ -12,7 +12,7 @@ Using this dataset, data scientists can build models which identify maths equati
 ## CONTRIBUTING
 If you want to contribute to VME, you can follow the UAV format. Upload, Annotate, Verify.
 
-Right now, the dataset's UAV platform is in development. There are no tangible ways to contribute data yet, but you can prepare to contribute. To get in early, focus on gathering any visual mathematical data you have access to and photographinh it.
+Right now, the dataset's [UAV platform](https://dataunion.app/), DataUnion, is in development. So there are no tangible ways to contribute data yet, but you can prepare to contribute. To get in early, focus on gathering any visual mathematical data you have access to and photographing it.
 
 VME data can be found anywhere, but the most common places are:
 
@@ -21,15 +21,15 @@ VME data can be found anywhere, but the most common places are:
 - 🌊 Your friends' old workbooks from school / university
 - 🌊 Photos of whiteboards from school / university lying around your phone
 
-VME data can also be found in textbooks and on worksheets. But using this data comes with IP complications. *Do not extract VME data from textbooks or worksheets unless you have IP permissions.*
+**Beware of IP violations.** VME data can be found in textbooks and on worksheets, but using this data requires IP permissions. *Do not extract VME data from textbooks or worksheets unless you have IP permissions.*
 
 ----
 
 ## ANNOTATING
 
-An official annotation software, called [DataUnion](https://dataunion.app/), is being set up for contributors to upload, annotate and verify on the dataset. 
+As aforementioned, an annotation software called [DataUnion](https://dataunion.app/) is being set up. It will allow contributors to upload, annotate and verify on the dataset. 
 
-This software will record your contributions to the dataset so you can be rewarded accordingly in DataTokens. For the time being, if you want to contribute to VME please just focus on collecting VME images.
+This software will record your contributions to the dataset so you can be rewarded accordingly in DataTokens. For the time being, **if you want to contribute to VME please just focus on collecting VME data and photographing it.**
 
 ----
 
