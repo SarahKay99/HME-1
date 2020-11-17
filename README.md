@@ -10,9 +10,9 @@ Using this dataset, data scientists can build models which identify maths equati
 ----
 
 ## CONTRIBUTING
-If you want to contribute to VME, you can 
+If you want to contribute to VME, you can follow the UAV format. Upload, Annotate, Verify.
 
-Right now, the dataset is in early-stage development. To get in early, focus on gathering any visual mathematical data you have access to.
+Right now, the dataset's UAV platform is in development. There are no tangible ways to contribute data yet, but you can prepare to contribute. To get in early, focus on gathering any visual mathematical data you have access to and photographinh it.
 
 VME data can be found anywhere, but the most common places are:
 
