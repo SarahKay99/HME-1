@@ -1,4 +1,4 @@
-## Visual Mathematical Equations
+# Visual Mathematical Equations
 This repo is a sample of the  Visual Mathematical Equations (VME) dataset. VME will shortly be listed on Ocean Protocol where it will be open for pooling & data contribution.
 
 Visual Mathematical Equations (VME) is a dataset for anyone interested in *Mathematical Optical Character Recognition (Math OCR).*
@@ -9,7 +9,7 @@ Using this dataset, data scientists can build models which identify maths equati
 
 ----
 
-## CONTRIBUTING
+# CONTRIBUTING
 If you want to contribute to VME, you can follow the UAV format. Upload, Annotate, Verify.
 
 Right now, the dataset's [UAV platform](https://dataunion.app/), DataUnion, is in development. So there are no tangible ways to contribute data yet, but you can prepare to contribute. To get in early, focus on gathering any visual mathematical data you have access to and photographing it.
@@ -25,7 +25,7 @@ VME data can be found anywhere, but the most common places are:
 
 ----
 
-## ANNOTATING
+# ANNOTATING
 
 As aforementioned, an annotation software called [DataUnion](https://dataunion.app/) is being set up. It will allow contributors to upload, annotate and verify on the dataset. 
 
@@ -33,7 +33,7 @@ This software will record your contributions to the dataset so you can be reward
 
 ----
 
-# HME-1 Annotation Format
+## HME-1 Annotation Format
 HME-1 stands for Hierarchical Mathematical Equations 1. It is a style of annotation where the equation is broken into hierarchical components: 
 
 - Equation 
