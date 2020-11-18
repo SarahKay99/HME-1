@@ -1,3 +1,6 @@
 equation
 expression
 term
+separator
+equals
+fraction
