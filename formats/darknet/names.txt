@@ -5,3 +5,4 @@ separator
 equals
 fraction
 integer
+parenthesis
