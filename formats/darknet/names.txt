@@ -4,3 +4,4 @@ term
 separator
 equals
 fraction
+integer
