@@ -1,10 +1,6 @@
 # Visual Mathematical Equations
 
 # CONTRIBUTING
-If you want to contribute to VME, you can follow the UAV format. Upload, Annotate, Verify.
-
-Right now, the dataset's [UAV platform](https://dataunion.app/), DataUnion, is in development. So there are no tangible ways to contribute data yet, but you can prepare to contribute. To get in early, focus on gathering any visual mathematical data you have access to and photographing it.
-
 VME data can be found anywhere, but the most common places are:
 
 - 🌊 Old workbooks from school / university
@@ -13,6 +9,8 @@ VME data can be found anywhere, but the most common places are:
 - 🌊 Photos of whiteboards from school / university lying around your phone
 
 **Beware of IP violations.** VME data can be found in textbooks and on worksheets, but using this data requires IP permissions. *Do not extract VME data from textbooks or worksheets unless you have IP permissions.*
+
+Right now, the dataset's [UAV platform](https://dataunion.app/), DataUnion, is in development. So **there are no tangible ways to contribute data yet, but you can PREPARE to contribute.** To get in early, focus on gathering any visual mathematical data you have access to and photographing it.
 
 ----
 
