@@ -12,6 +12,21 @@ VME data can be found anywhere, but the most common places are:
 
 Right now, the dataset's [UAV platform](https://dataunion.app/), DataUnion, is in development. So **there are no tangible ways to contribute data yet, but you can PREPARE to contribute.** To get in early, focus on gathering any visual mathematical data you have access to and photographing it.
 
+## What sort of data should I contribute?
+
+To ensure our dataset is multi-purpose, we don't want it all to be perfectly printed, linear text equations. Sometimes, messy is GOOD.
+We're fine with neat, linearly-written equations, but the following types of data are highly-sought after. DON'T CONTRIBUTE THESE EXACT IMAGES:
+
+- 🐟 Chaotically laid-out equations, messy whiteboards without a linear structure. **Examples:** [x](https://www.mrloader.com/uploads/3/2/2/1/32218311/7282334_orig.jpg) [x](https://study.com/cimages/course-image/nystce-mathematics-practice-study-guide_195602_large.jpg) [x](https://miro.medium.com/max/494/1*Tji1OJN_55to2bzIZKVs8w.png) [x](https://pbs.twimg.com/media/DrRM1A5VsAA4HC6.jpg)
+
+- 🐟 Column equations and long division. **Examples:** [x](https://i.ytimg.com/vi/t_bnlB2KRL4/hqdefault.jpg) [x](https://i2.wp.com/corbettmaths.com/wp-content/uploads/2019/08/Column-multiplication.png?fit=596%2C604&ssl=1) [x](https://i.ytimg.com/vi/8lT00iLntFc/maxresdefault.jpg) [x](https://i.ytimg.com/vi/UCht-8gvOCk/hqdefault.jpg) [x](https://i.ytimg.com/vi/O6QTMJt2n0k/hqdefault.jpg)
+
+- 🐟 Sketched graphs -- especially if they have enough information to derive the equation. **Examples:** [x](https://i.ytimg.com/vi/mYYUQgSRWFg/maxresdefault.jpg) [x](https://i.ytimg.com/vi/qFARJBUzyTM/maxresdefault.jpg) [x](https://i.ytimg.com/vi/xMFlhBrK3iA/maxresdefault.jpg)
+
+- 🐟 Geometry. **Examples:** [x](https://thumbs.dreamstime.com/z/notepad-different-handwritten-formulas-tasks-top-view-work-mathematics-geometry-148701220.jpg) [x](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBtzXoZ2OMUa3sfHKwOLllDju50oAQ1jLtwQ&usqp=CAU) [x](https://st2.depositphotos.com/5963126/10285/v/950/depositphotos_102852888-stock-illustration-hand-drawn-geometric-formulas.jpg)
+
+There'll probably be bounties for this data in future. 
+
 ----
 
 This repo is a sample of the  Visual Mathematical Equations (VME) dataset. VME will shortly be listed on Ocean Protocol where it will be open for pooling & data contribution.
