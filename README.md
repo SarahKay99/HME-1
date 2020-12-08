@@ -1,5 +1,21 @@
 # Visual Mathematical Equations
 
+# WHAT DATA ARE WE LOOKING FOR?
+
+VME is about VISUAL mathematical equations, meaning we don't want it all to be perfectly printed, linear text equations. Sometimes, messy is GOOD.
+Whilst we're fine with having neat, beautiful, linearly-written equations in our dataset, VME should contain a variety of data, including disorderly and messy data. 
+Images of the following things are highly-sought after. DON'T CONTRIBUTE THESE EXACT IMAGES:
+
+- 🐡 Chaotically laid-out equations, messy whiteboards without a linear structure (examples: https://www.mrloader.com/uploads/3/2/2/1/32218311/7282334_orig.jpg, https://study.com/cimages/course-image/nystce-mathematics-practice-study-guide_195602_large.jpg, https://miro.medium.com/max/494/1*Tji1OJN_55to2bzIZKVs8w.png, https://pbs.twimg.com/media/DrRM1A5VsAA4HC6.jpg)
+
+- 🐡 Column equations and long division (examples: https://i.ytimg.com/vi/t_bnlB2KRL4/hqdefault.jpg,  https://i2.wp.com/corbettmaths.com/wp-content/uploads/2019/08/Column-multiplication.png?fit=596%2C604&ssl=1, https://i.ytimg.com/vi/8lT00iLntFc/maxresdefault.jpg, https://i.ytimg.com/vi/UCht-8gvOCk/hqdefault.jpg, https://i.ytimg.com/vi/O6QTMJt2n0k/hqdefault.jpg)
+
+- 🐡 Sketched graphs -- especially if they have enough information to derive the equation (examples: https://i.ytimg.com/vi/mYYUQgSRWFg/maxresdefault.jpg,  https://i.ytimg.com/vi/qFARJBUzyTM/maxresdefault.jpg, https://i.ytimg.com/vi/xMFlhBrK3iA/maxresdefault.jpg)
+
+- 🐡 Geometry (examples: https://thumbs.dreamstime.com/z/notepad-different-handwritten-formulas-tasks-top-view-work-mathematics-geometry-148701220.jpg, https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBtzXoZ2OMUa3sfHKwOLllDju50oAQ1jLtwQ&usqp=CAU, https://st2.depositphotos.com/5963126/10285/v/950/depositphotos_102852888-stock-illustration-hand-drawn-geometric-formulas.jpg)
+
+No promises, but there might be bounties for this data in the future. 😉
+
 # CONTRIBUTING
 VME data can be found anywhere, but the most common places are:
 
